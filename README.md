@@ -1,1 +1,10 @@
 # gitactions
+[![Java CI with Gradle](https://github.com/RaicherVictor/gitactions/actions/workflows/gradle.yml/badge.svg)](https://github.com/RaicherVictor/gitactions/actions/workflows/gradle.yml)
+[![Java CI with Gradle](https://github.com/RaicherVictor/gitactions/actions/workflows/gradle.yml/badge.svg)](https://github.com/RaicherVictor/gitactions/actions/workflows/gradle.yml)
+[![Java CI with Gradle](https://github.com/RaicherVictor/gitactions/actions/workflows/gradle.yml/badge.svg)](https://github.com/RaicherVictor/gitactions/actions/workflows/gradle.yml)
+[![Java CI with Gradle](https://github.com/RaicherVictor/gitactions/actions/workflows/gradle.yml/badge.svg)](https://github.com/RaicherVictor/gitactions/actions/workflows/gradle.yml)
+[![Java CI with Gradle](https://github.com/RaicherVictor/gitactions/actions/workflows/gradle.yml/badge.svg)](https://github.com/RaicherVictor/gitactions/actions/workflows/gradle.yml)
+[![Java CI with Gradle](https://github.com/RaicherVictor/gitactions/actions/workflows/gradle.yml/badge.svg)](https://github.com/RaicherVictor/gitactions/actions/workflows/gradle.yml)
+[![Java CI with Gradle](https://github.com/RaicherVictor/gitactions/actions/workflows/gradle.yml/badge.svg)](https://github.com/RaicherVictor/gitactions/actions/workflows/gradle.yml)
+[![Java CI with Gradle](https://github.com/RaicherVictor/gitactions/actions/workflows/gradle.yml/badge.svg)](https://github.com/RaicherVictor/gitactions/actions/workflows/gradle.yml)
+[![Java CI with Gradle](https://github.com/RaicherVictor/gitactions/actions/workflows/gradle.yml/badge.svg)](https://github.com/RaicherVictor/gitactions/actions/workflows/gradle.yml)
